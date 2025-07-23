@@ -1,0 +1,9 @@
+beautifulsoup4==4.11.1
+minify_html==0.15.0
+pandas==2.2.0
+progress==1.6
+Requests==2.31.0
+tabulate==0.8.9
+thefuzz==0.19.0
+XlsxWriter==3.0.3
+python-Levenshtein==0.25.0
