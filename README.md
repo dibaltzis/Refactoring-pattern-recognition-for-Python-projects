@@ -1,4 +1,8 @@
-# Refactor pattern recognition for Python
+# Refactor Pattern Recognition for Python
+
+## Description
+This project analyzes Python code across versions to detect applied refactoring patterns and code smells based on Martin Fowler's catalog. It identifies changes such as method moves, class extractions, and other structural improvements, providing detailed reports and visualizations of the detected refactorings.
+
 ### Implemented Refactors
 
 | Category                        | Refactor                                   | Color                                           | File Location                                      | Documentation                                       |
